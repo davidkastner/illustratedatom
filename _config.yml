@@ -1,5 +1,5 @@
-site: hackabletype
-url: "hackabletype.com"
+site: Illustrated Atom
+url: "illustratedatom.com"
 version: 1.1.14
 
 collections:
@@ -55,5 +55,4 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 # Analytics
-google_analytics: UA-90567457-1
-
+#google_analytics: UA-90567457-1
