@@ -1,0 +1,22 @@
+---
+title: 'Darktrails'
+subtitle: 'Abstract Protein Sculpture'
+date: 2020-06-06 00:00:00
+description: Blender Render
+featured_image: '/images/projects/blender/darktrails.png'
+published: true
+---
+
+![](/images/projects/blender/darktrails.png)
+
+---
+
+### Project Information
+
+**Software:** Blender v2.82
+
+**Render Engine:** Cycles
+
+**License:** Creative Commons (CC) License
+
+<a href="https://github.com/davidkastner/illustratedatom/tree/master/files/darktrails.blend" class="button button--large">Get Blender File</a>
