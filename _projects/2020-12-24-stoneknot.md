@@ -1,6 +1,7 @@
 ---
 title: 'Infinity Loop'
 subtitle: 'Keltic Stone Knot in Motion'
+icon: 'fas fa-play fa-3x'
 date: 2020-12-24 00:00:00
 description: Blender Render
 featured_image: '/images/projects/blender/stoneknot.png'

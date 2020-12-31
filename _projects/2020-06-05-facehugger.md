@@ -8,7 +8,9 @@ featured_image: '/images/projects/blender/facehugger.png'
 published: true
 ---
 
-<iframe src="https://www.illustratedatom.com/images/projects/blender/facehugger.mp4" style="width:100vh; height:100vh;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video style="width:100vh; height:100vh;" controls loop autoplay>
+    <source src="/images/projects/blender/facehugger.mp4" type="video/mp4">
+</video>
 
 ---
 
