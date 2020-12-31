@@ -7,7 +7,7 @@ featured_image: https://www.illustratedatom.com/images/projects/blender/stonekno
 published: true
 ---
 
-<iframe src="https://www.illustratedatom.com/images/projects/blender/stoneknot.mp4" width="1440" height="1440"frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.illustratedatom.com/images/projects/blender/stoneknot.mp4" width="1440" height="1440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![](/images/projects/blender/stoneknot.mp4)
 
 ---
