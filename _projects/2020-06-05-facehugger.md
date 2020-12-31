@@ -8,7 +8,7 @@ featured_image: '/images/projects/blender/facehugger.png'
 published: true
 ---
 
-<video style="width:100vh; height:100vh;" controls loop autoplay>
+<video style="width:100vh;" controls loop autoplay>
     <source src="/images/projects/blender/facehugger.mp4" type="video/mp4">
 </video>
 
