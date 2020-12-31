@@ -8,7 +8,7 @@ published: true
 ---
 
 <iframe src="https://github.com/davidkastner/illustratedatom/tree/master/files/stoneknot.mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-![](/images/projects/blender/stoneknot.png)
+![](/images/projects/blender/stoneknot.mp4)
 
 ---
 
