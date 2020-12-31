@@ -16,6 +16,8 @@ published: true
 
 **Software:** Blender v2.91.0
 
+**Type:** Animation
+
 **Render Engine:** Cycles
 
 **License:** Creative Commons (CC) License
