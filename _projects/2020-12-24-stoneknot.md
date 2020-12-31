@@ -7,7 +7,10 @@ featured_image: https://www.illustratedatom.com/images/projects/blender/stonekno
 published: true
 ---
 
-<iframe src="https://www.illustratedatom.com/images/projects/blender/stoneknot.mp4" style="width:100vh;height:100vh;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video style="width:100vh; height:100vh;" controls loop>
+    <source src="/images/projects/blender/facehugger.mp4" type="video/mp4">
+    Your browser does not support playing this Video
+</video>
 
 ---
 
