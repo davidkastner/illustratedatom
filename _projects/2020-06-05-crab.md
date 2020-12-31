@@ -15,6 +15,8 @@ published: true
 
 **Software:** Blender v2.82
 
+**Type:** Still frame
+
 **Render Engine:** Cycles
 
 **License:** Creative Commons (CC) License
