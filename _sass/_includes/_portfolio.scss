@@ -92,5 +92,11 @@
 }
 
 .portfolio-item__icon {
+	margin-top: 5px;
+}
+
+.portfolio-item__icon > i {
 	color: white;
+	height: 20vh;
+	width: 20vh;
 }
