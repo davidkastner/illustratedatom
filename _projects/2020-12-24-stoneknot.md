@@ -3,13 +3,12 @@ title: 'Infinity Loop'
 subtitle: 'Keltic Stone Knot in Motion'
 date: 2020-12-24 00:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/stoneknot.mp4'
+featured_image: '/images/projects/blender/stoneknot.png'
 published: true
 ---
 
 <video style="width:100vh; height:100vh;" controls loop autoplay>
     <source src="/images/projects/blender/stoneknot.mp4" type="video/mp4">
-    Your browser does not support playing this Video
 </video>
 
 ---

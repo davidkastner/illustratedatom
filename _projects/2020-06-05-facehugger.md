@@ -3,7 +3,7 @@ title: 'Alien Creature'
 subtitle: 'Organic Texture and Movement Study'
 date: 2020-06-06 00:00:00
 description: Blender Render
-featured_image: 'https://www.illustratedatom.com/images/projects/blender/facehugger.mp4'
+featured_image: '/images/projects/blender/facehugger.png'
 published: true
 ---
 
