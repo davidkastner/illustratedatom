@@ -3,10 +3,11 @@ title: 'Infinity Loop'
 subtitle: 'Keltic Stone Knot in Motion'
 date: 2020-12-24 00:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/stoneknot.png'
+featured_image: '/images/projects/blender/stoneknot.mp4'
 published: true
 ---
 
+<iframe src="https://github.com/davidkastner/illustratedatom/tree/master/files/stoneknot.mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![](/images/projects/blender/stoneknot.png)
 
 ---
