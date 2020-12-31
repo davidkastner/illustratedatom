@@ -8,7 +8,6 @@ published: true
 ---
 
 <iframe src="https://www.illustratedatom.com/images/projects/blender/stoneknot.mp4" style="width:100vh;height:100vh;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-![](/images/projects/blender/stoneknot.mp4)
 
 ---
 
