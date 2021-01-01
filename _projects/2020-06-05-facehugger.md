@@ -23,5 +23,3 @@ published: true
 **Render Engine:** Cycles
 
 **License:** Creative Commons (CC) License
-
-<a href="https://github.com/davidkastner/illustratedatom/tree/master/files/facehugger.blend" class="button button--large">Get Blender File</a>
