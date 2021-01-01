@@ -21,7 +21,7 @@ layout: default
 		
 		<hr/>
 		<p>{{ page.date | date: "%B %Y" }}</p>
-		<p><small>Filed under
+		<p><small>
 		{% comment %}
 		Keeping this code snippet for when I want to add tags to the site. // TODO: add tags.
 		{% for tag in page.tags %}<a href="/tag/{{ tag }}/">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}{% endfor %}
