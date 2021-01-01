@@ -6,6 +6,7 @@ date: 2020-12-24 00:00:00
 description: Blender Render
 featured_image: '/images/projects/blender/stoneknot.png'
 published: true
+
 ---
 
 <video style="width:100vh; height:100vh;" controls loop autoplay>
