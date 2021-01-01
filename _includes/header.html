@@ -29,15 +29,7 @@
 			</div>
 		</div>
 
-		<div class="header__lower">
-
-			{% include socials.html %}
-
-			<div class="footer__copyright">
-				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_owner }}</span>
-			</div>
-
-		</div>
+		{% include socials.html %}
 
 		<div class="projects-menu">
 			<ul class="menu__list">
@@ -47,6 +39,14 @@
 				</li>
 				{% endfor %}
 			</ul>
+		</div>
+
+		<div class="header__lower">
+
+			<div class="footer__copyright">
+				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_owner }}</span>
+			</div>
+
 		</div>
 
 	</div>
